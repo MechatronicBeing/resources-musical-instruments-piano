@@ -1,0 +1,41 @@
+- Woodwinds
+  - Flute
+  - Alto Flute
+  - Bass Flute
+  - Oboe
+  - Eb Clarinet
+  - Bb Clarinet
+  - Bass Clarinet
+  - Bassoon
+  - Bb Soprano
+  - Saxophone
+  - Eb Alto
+  - Saxophone
+- Brass
+  - Horn
+  - Bb Trumpet
+  - Tenor Trombone
+  - Bass Trombone
+  - Tuba
+- Strings
+  - Violin
+  - Viola
+  - Cello
+  - Double Bass
+- Percussion
+  - Marimba
+  - Xylophone
+  - Vibraphone
+  - Bells
+  - Crotales
+  - Cymbals
+  - Gongs/tamtams
+  - Hand
+  - Percussion
+  - Tambourines
+- Piano / others
+  - Piano
+  - Ballon Pop
+  - Guitar
+- Found Objects 1
+- Found Objects 2
