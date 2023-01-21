@@ -33,9 +33,9 @@
   - Hand
   - Percussion
   - Tambourines
-- Piano / others
+- Others
   - Piano
   - Ballon Pop
   - Guitar
-- Found Objects 1
-- Found Objects 2
+  - Found Objects 1
+  - Found Objects 2
